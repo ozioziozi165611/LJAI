@@ -2,7 +2,6 @@ import discord
 import google.generativeai as genai
 import os
 from discord import app_commands
-from flask import Flask
 from threading import Thread
 
 # Web server to keep Replit alive
